@@ -20,10 +20,8 @@ if ($beda > 0 )
         echo "Expired $bedahari Hari Lagi";
 		
 	}
-}
-else
-{
+}else{
 	echo "Expired";
-}
+	}
  
 ?>
